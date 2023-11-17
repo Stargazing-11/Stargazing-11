@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stargazing-11
+- 👋 Hi, I’m Samuel Kifle
 - 👀 I’m interested in  Web and Mobile application development
 - 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on Web and mobile application development
