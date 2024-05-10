@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Samuel Kifle
 - 👀 I’m interested in  Web and Mobile application development
-- 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on Web and mobile application development
 - 📫 How to reach me samuelkifle199314@gmail.com
 <img src="https://github-readme-stats.vercel.app/api?username=Stargazing-11&show_icons=true&theme=dark"/>
